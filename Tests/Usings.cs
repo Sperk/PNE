@@ -1,0 +1,12 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading;
+global using NUnit.Framework;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Edge;
+global using OpenQA.Selenium.Support;
+global using OpenQA.Selenium.Support.UI;
+global using OpenQA.Selenium.Support.Extensions;
+global using Helpers;
+global using System.Collections.ObjectModel;
